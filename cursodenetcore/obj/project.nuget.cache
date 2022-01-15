@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nuHLyluGS7q7d8ePjG2X3kkbiE4CIBHjgRDhzzH7up1sBSkQNBu1VlhBPQiCDf0MgqbaUmT4CakgRhMRU/JP0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria\\Desktop\\PROYECTOS\\c sharp\\udemy\\cursodenetcore\\cursodenetcore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\bin\Debug\netcoreapp3.1\cursodenetcore.exe
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\bin\Debug\netcoreapp3.1\cursodenetcore.deps.json
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\bin\Debug\netcoreapp3.1\cursodenetcore.runtimeconfig.json
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\bin\Debug\netcoreapp3.1\cursodenetcore.runtimeconfig.dev.json
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\bin\Debug\netcoreapp3.1\cursodenetcore.dll
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\bin\Debug\netcoreapp3.1\cursodenetcore.pdb
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\obj\Debug\netcoreapp3.1\cursodenetcore.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\obj\Debug\netcoreapp3.1\cursodenetcore.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\obj\Debug\netcoreapp3.1\cursodenetcore.AssemblyInfo.cs
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\obj\Debug\netcoreapp3.1\cursodenetcore.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\obj\Debug\netcoreapp3.1\cursodenetcore.dll
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\obj\Debug\netcoreapp3.1\cursodenetcore.pdb
+C:\Users\maria\Desktop\PROYECTOS\c sharp\udemy\cursodenetcore\obj\Debug\netcoreapp3.1\cursodenetcore.genruntimeconfig.cache
